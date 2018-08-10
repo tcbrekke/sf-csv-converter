@@ -1,0 +1,477 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"city",
+				"city_single_family"
+			],
+			[
+				"result",
+				"results_dict"
+			],
+			[
+				"results",
+				"results_df"
+			],
+			[
+				"region",
+				"region_affordability"
+			],
+			[
+				"county_",
+				"county_single_family_db"
+			],
+			[
+				"count",
+				"county_multi_family_db"
+			],
+			[
+				"chart",
+				"chartHeight"
+			],
+			[
+				"same",
+				"sample_meta_var"
+			],
+			[
+				"otus",
+				"otus_query"
+			],
+			[
+				"automap",
+				"automap_base"
+			],
+			[
+				"im",
+				"img-responsive"
+			],
+			[
+				"res",
+				"img-responsive"
+			],
+			[
+				"find_",
+				"find_by_css"
+			],
+			[
+				"mar",
+				"mars_rollup"
+			],
+			[
+				"hemi",
+				"hemi_list"
+			],
+			[
+				"fac",
+				"facts_conversion_table"
+			],
+			[
+				"fe",
+				"featured_image_url"
+			],
+			[
+				"ri",
+				"ripeness_rating"
+			],
+			[
+				"te",
+				"type_of_fruit"
+			],
+			[
+				"order",
+				"order_more"
+			],
+			[
+				"candy_",
+				"candy_cart"
+			],
+			[
+				"Candy",
+				"candyList"
+			],
+			[
+				"play",
+				"play_again"
+			],
+			[
+				"G",
+				"GreatestTotalVolume"
+			],
+			[
+				"Grea",
+				"GreatestTotalVolume"
+			],
+			[
+				"Gre",
+				"GreatestPercentDecrease"
+			],
+			[
+				"Percent",
+				"PercentChange"
+			],
+			[
+				"Great",
+				"GreatestPercentIncrease"
+			],
+			[
+				"Greatest",
+				"GreatestTotalVolume"
+			],
+			[
+				"GRea",
+				"GreatestPercentDecrease"
+			],
+			[
+				"Count",
+				"CountSymbolRows"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 403,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 89.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insl",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install packa",
+				"Package Control: Install Package"
+			],
+			[
+				"install package control",
+				"Install Package Control"
+			],
+			[
+				"install ",
+				"Install Package Control"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tcbrekke/dev-projects/sf-csv-converter"
+	],
+	"file_history":
+	[
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/Week 12 - Web/activities/day-1/01-HTML_Demo/my-first.html",
+		"/Users/tcbrekke/boot-camp-homework/bootcamp-final-project/static/js/dropdown_reader.js",
+		"/Users/tcbrekke/boot-camp-homework/bootcamp-final-project/wine.py",
+		"/Users/tcbrekke/boot-camp-homework/project-2/scratchwebapp.py",
+		"/Users/tcbrekke/boot-camp-homework/project-2/test_combine2.js",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/week 19 - Tableau/activities/Activities/04-Stu_NoShow/README.md",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/week 20 - Machine Learning/activities/day-4/02-Ins_Flask_Images/Solved/app.py",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/week 21 - Big ol' Data/activities/day-1/04-Stu_Austin_Snow/Unsolved/snow.py",
+		"/Users/tcbrekke/Library/Containers/com.apple.PhotoBooth/Data/Pictures/Photo Booth Library/Pictures/Photo on 6-28-18 at 3.53 PM #2.jpg",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/week 16 - D3/activities/day-2/05-Ins_Intro_To_Axes/Solved/app.js",
+		"/Users/tcbrekke/boot-camp-homework/d3js-homework/index.html",
+		"/Users/tcbrekke/boot-camp-homework/d3js-homework/app.js",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/week 16 - D3/activities/day-3/09-Stu_Hair_Metal/Solved/app.js",
+		"/Users/tcbrekke/boot-camp-homework/interactive-visualizations-and-dashboard-homework/belly-button/app.py",
+		"/Users/tcbrekke/boot-camp-homework/d3js-homework/.git/info/exclude",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/Week 15 - Interactive Visualizations and Dashboards/activities/day-3/07-Stu_Pet_Pals/Solved/Pet_Pals/app.py",
+		"/Users/tcbrekke/boot-camp-homework/interactive-visualizations-and-dashboard-homework/templates/index.html",
+		"/Users/tcbrekke/boot-camp-homework/interactive-visualizations-and-dashboard-homework/Procfile",
+		"/Users/tcbrekke/boot-camp-homework/interactive-visualizations-and-dashboard-homework/bellybutton.py",
+		"/Users/tcbrekke/boot-camp-homework/interactive-visualizations-and-dashboard-homework/templates/bellybutton.py",
+		"/Users/tcbrekke/boot-camp-homework/javascript-intro-hw/data.js",
+		"/Users/tcbrekke/boot-camp-homework/javascript-intro-hw/index.html",
+		"/Users/tcbrekke/boot-camp-homework/web-scraping-and-document-databases-homework/app.py",
+		"/Users/tcbrekke/boot-camp-homework/web-scraping-and-document-databases-homework/templates/index.html",
+		"/Users/tcbrekke/boot-camp-homework/web-scraping-and-document-databases-homework/scrape_mars.py",
+		"/Users/tcbrekke/boot-camp-homework/web-scraping-and-document-databases-homework/web-scraping-hw.ipynb",
+		"/Users/tcbrekke/boot-camp-homework/adv-data-storage-and-retrieval-homework/climate_app.py",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/week 14 - Intro to Javascript/activities/day-3/05-Ins_D3_Events/Solved/index.js",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/week 14 - Intro to Javascript/activities/day-3/05-Ins_D3_Events/Solved/index.html",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/week 14 - Intro to Javascript/activities/day-3/03-Ins_Giphy_API/Solved/giphy-api.html",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/week 14 - Intro to Javascript/activities/day-3/06-Stu_Giphy_Button/Unsolved/index.html",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/week 14 - Intro to Javascript/activities/day-3/06-Stu_Giphy_Button/README.md",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/week 14 - Intro to Javascript/activities/day-3/06-Stu_Giphy_Button/Unsolved/index.js",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/Week 13 - Web Scraping and Document Databases/homework/part-1/Solutions/Mission_to_Mars/app/scrape_mars.py",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/Week 13 - Web Scraping and Document Databases/activities/day-3/09-Ins_Scrape_And_Render/Solved/scrape_craigslist.py",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/Week 13 - Web Scraping and Document Databases/activities/day-3/05-Ins_Render_Dict/Solved/templates/index.html",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/Week 13 - Web Scraping and Document Databases/activities/day-3/04-Stu_Render_List/Unsolved/app.py",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/Week 13 - Web Scraping and Document Databases/activities/day-3/04-Stu_Render_List/Unsolved/templates/index.html",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/Week 13 - Web Scraping and Document Databases/activities/day-3/06-Stu_Render_Dict/Unsolved/templates/index.html",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/Week 13 - Web Scraping and Document Databases/activities/day-3/06-Stu_Render_Dict/Unsolved/app.py",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/Week 13 - Web Scraping and Document Databases/activities/day-3/03-Ins_Render_List/Solved/templates/index.html",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/Week 13 - Web Scraping and Document Databases/activities/day-3/03-Ins_Render_List/Solved/app.py",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/Week 13 - Web Scraping and Document Databases/activities/day-3/01-Ins_Render_String/Solved/app2.py",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/Week 13 - Web Scraping and Document Databases/activities/day-3/02-Stu_Render_String/Unsolved/app.py",
+		"/Users/tcbrekke/boot-camp-homework/tcbrekke.github.io/hw12/index.html",
+		"/Users/tcbrekke/boot-camp-homework/tcbrekke.github.io/hw12/rawdata.html",
+		"/Users/tcbrekke/boot-camp-homework/tcbrekke.github.io/hw12/style.css",
+		"/Users/tcbrekke/boot-camp-homework/tcbrekke.github.io/hw12/humidity.html",
+		"/Users/tcbrekke/boot-camp-homework/tcbrekke.github.io/hw12/cloudiness.html",
+		"/Users/tcbrekke/boot-camp-homework/tcbrekke.github.io/hw12/wind.html",
+		"/Users/tcbrekke/boot-camp-homework/tcbrekke.github.io/hw12/temperature.html",
+		"/Users/tcbrekke/boot-camp-homework/tcbrekke.github.io/hw12/comparisons.html",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/01-Lesson-Plans/10-SQL/Activities/23-Stu_Self_Joins/Unsolved/Readme.md",
+		"/Users/tcbrekke/backup.sql",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/01-Lesson-Plans/10-SQL/2/Activities/09-Par_SQLWitchcraft/Readme.md",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/01-Lesson-Plans/10-SQL/2/Activities/08-Stu_JoiningTeam/Readme.md",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/03-Boot-Camp-Projects/boot-camp-project-1/chi_cleaning2016.py",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/03-Boot-Camp-Projects/boot-camp-project-1/chi_cleaning2013.pypy.py",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/03-Boot-Camp-Projects/social-analytics-homework/Procfile",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/03-Boot-Camp-Projects/social-analytics-homework/.gitignore",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/twitter_keys/config.py",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/01-Lesson-Plans/06-Python-APIs/3/Activities/04-Stu_MapWrap/config.py",
+		"/Users/tcbrekke/UCBER201802DATA3-Class-Repository-DATA/01-Lesson-Plans/06-Python-APIs/2/Activities/04-Stu_Bujumbura/config.py",
+		"/Users/tcbrekke/LearnPython/write.py",
+		"/Users/tcbrekke/LearnPython/netflix.py",
+		"/Users/tcbrekke/BootCampMaster/python-challenge/PyBank/pybankoutput.txt",
+		"/Users/tcbrekke/LearnPython/number_chain.py",
+		"/Users/tcbrekke/LearnPython/lists.py",
+		"/Users/tcbrekke/LearnPython/Assignment1/quick_python.py",
+		"/Users/tcbrekke/LearnPython/HelloVariableWorld.py",
+		"/Users/tcbrekke/Documents/Data Boot Camp/Excel/StarCounter.vbs",
+		"/Sub HornetsNest().vbs",
+		"/Users/tcbrekke/Documents/Data Boot Camp/Excel/Sub RedPieces().vbs",
+		"/Users/tcbrekke/Documents/Data Boot Camp/Excel/Sub CalulatorBackend().vbs",
+		"/Users/tcbrekke/Documents/Data Boot Camp/Excel/Sub SentenceBreaker().vbs",
+		"/Users/tcbrekke/Documents/Data Boot Camp/Excel/Sub AppleBanana().vbs",
+		"/Users/tcbrekke/Documents/Data Boot Camp/Excel/Sub BudgetChecker().vbs",
+		"/Users/tcbrekke/Documents/Data Boot Camp/Excel/Sub ChickenNuggets():",
+		"/Users/tcbrekke/Documents/Data Boot Camp/Excel/Sub FizzBuzz():",
+		"/Users/tcbrekke/Documents/Data Boot Camp/Excel/Sub VBALotto().vbs",
+		"/Users/tcbrekke/Downloads/01-Ins_GreatDebate/ItalianVsMexican.md",
+		"/Users/tcbrekke/Library/Application Support/Sublime Text 3/Packages/User/python2.sublime-build",
+		"/Users/tcbrekke/Library/Application Support/Sublime Text 3/Packages/User/pandasp1.py",
+		"/Users/tcbrekke/Library/Application Support/Sublime Text 3/Packages/User/pandasp2.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245,
+								362
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 203.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "sf-csv-converter.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"input.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
