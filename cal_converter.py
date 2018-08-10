@@ -29,7 +29,7 @@ session = Session(engine)
 def index():
     return render_template("index.html")
 
-@app.route("upload.html", methods = ['POST'])
+# @app.route("upload.html", methods = ['POST'])
 
 
 if __name__ == "__main__":
