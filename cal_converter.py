@@ -30,7 +30,11 @@ def index():
     return render_template("index.html")
 
 # @app.route("upload.html", methods = ['POST'])
+# def upload_route_summary():
+#     if request.method == 'POST':
 
+#         # Create variable for uploaded file
+#         f = request.files['csvupload'] 
 
 if __name__ == "__main__":
     app.run(debug=True)
