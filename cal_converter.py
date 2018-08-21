@@ -110,16 +110,17 @@ def upload_route_summary():
 
 	return Response(modified_csv, mimetype="text/csv", headers={"Content-Disposition":"attachment; filename=converted.csv"})
 
-	modified_csv = 0
-	new_df = 0
-	csv_to_convert = 0
-	content_df = 0
-	titles = []
-	posts = []
-	dates = []
-	times = []
-	labels = []
-	channels = []
+	# modified_csv = 0
+	# new_df = 0
+	# csv_to_convert = 0
+	# content_df = 0
+	# titles = []
+	# posts = []
+	# dates = []
+	# times = []
+	# labels = []
+	# channels = []
+	# print(new_df)
 
 
 if __name__ == "__main__":
