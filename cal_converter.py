@@ -51,7 +51,7 @@ def upload_route_summary():
         i = 0
         print("first check")
 
-        while i <= icap:
+        while i < icap:
             print(f"Start no. {i}")
             if content_df.iloc[i]["Auto Imported"] == "no":
                 j = i+1
@@ -70,14 +70,14 @@ def upload_route_summary():
                 post_channels = content_df.iloc[i]["Accounts"]
                 print("got here")
 
-                if icap >= j:
+                if icap > j:
                     if content_df.iloc[j]["Title"] == title:
                         print("made it past j")
                         new_channels = content_df.iloc[j]["Accounts"]
                         print(f"Check out these new channels: {new_channels}")
                         post_channels = f"{post_channels},{new_channels}"
 
-                        if icap >= k:
+                        if icap > k:
                             if content_df.iloc[k]["Title"] == title:
                                 print("made it past k")
                                 new_channels = content_df.iloc[k]["Accounts"]
