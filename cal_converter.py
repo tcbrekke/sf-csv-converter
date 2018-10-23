@@ -52,7 +52,7 @@ def upload_route_summary():
         print("first check")
 
         while i < icap:
-            print(f"Start no. {i}")
+            print(f"Start no. {i} (i)")
             if content_df.iloc[i]["Auto Imported"] == "no":
                 j = i+1
                 k = i+2
@@ -70,31 +70,28 @@ def upload_route_summary():
                 post_channels = content_df.iloc[i]["Accounts"]
                 print("got here")
 
+                print(f"icap is {icap}, j is {j}, and k is {k}")
+
                 if icap >= j:
                     print("made it past j if")
-                    try:
-                        if content_df.iloc[j]["Title"] == title:
-                            new_channels = content_df.iloc[j]["Accounts"]
-                            print(f"Check out these new channels: {new_channels}")
-                            post_channels = f"{post_channels}, {new_channels}"
-                            i += 1
-                    except IndexError:
-                        pass
-                else:
-                    i +=1
+                    if content_df.iloc[j]["Title"] == title:
+                        new_channels = content_df.iloc[j]["Accounts"]
+                        print(f"Check out these new channels: {new_channels}")
+                        post_channels = f"{post_channels}, {new_channels}"
 
-                if icap >= k:
-                    print("made it past k if")
-                    try:
-                        if content_df.iloc[k]["Title"] == title:
-                            print("but did you get here though")
-                            new_channels = content_df.iloc[k]["Accounts"]
-                            post_channels = f"{post_channels}, {new_channels}"
-                            i += 1
-                    except IndexError:
-                        pass
-                else:
-                    i += 1
+                        if icap >= k:
+                            print("made it past k if")
+                            if content_df.iloc[k]["Title"] == title:
+                                print("but did you get here though")
+                                new_channels = content_df.iloc[k]["Accounts"]
+                                post_channels = f"{post_channels}, {new_channels}"
+                                i += 3
+                            else:
+                                i += 2
+                        else: 
+                            i += 2
+                    else:
+                        i += 1
 
                 titles.append(title)
                 posts.append(post_text)
