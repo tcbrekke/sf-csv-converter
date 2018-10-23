@@ -38,7 +38,7 @@ def upload_route_summary():
         csv_to_convert = request.files['csvupload'] 
 
         content_df = pd.read_csv(csv_to_convert).reset_index()
-        icap = len(content_df)
+        icap = len(content_df) - 1 
         print(icap)
 
         titles = []
