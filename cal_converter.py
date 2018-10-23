@@ -48,7 +48,7 @@ def upload_route_summary():
         labels = []
         channels = []
 
-        i = 1
+        i = 0
         print("first check")
 
         while i < icap:
