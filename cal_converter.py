@@ -75,13 +75,13 @@ def upload_route_summary():
                     if content_df.iloc[j]["Title"] == title:
                         new_channels = content_df.iloc[j]["Accounts"]
                         print(f"Check out these new channels: {new_channels}")
-                        post_channels = f"{post_channels},{new_channels}"
+                        post_channels = f"{post_channels}, {new_channels}"
 
                         if icap >= k:
                             print("made it past k")
                             if content_df.iloc[k]["Title"] == title:
                                 new_channels = content_df.iloc[k]["Accounts"]
-                                post_channels = f"{post_channels},{new_channels}"
+                                post_channels = f"{post_channels}, {new_channels}"
                                 i += 3
                         else:
                             i += 2
@@ -94,6 +94,9 @@ def upload_route_summary():
                 times.append(pub_time)
                 labels.append(primary_label)
                 channels.append(post_channels)
+                
+                else:
+                    continue
             else:
                 i += 1
 
