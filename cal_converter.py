@@ -76,7 +76,7 @@ def upload_route_summary():
 		                new_channels = content_df.iloc[j]["Accounts"]
 		                print(f"Check out these new channels: {new_channels}")
 		                post_channels = f"{post_channels},{new_channels}"
-		#                 See if next cell exists, then if it is also a duplicate
+		                
 		                if icap >= k:
 		                	print("made it past k")
 		                    if content_df.iloc[k]["Title"] == title:
