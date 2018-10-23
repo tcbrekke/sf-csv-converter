@@ -51,7 +51,7 @@ def upload_route_summary():
         i = 0
         print("first check")
 
-        while i <= (icap-2):
+        while i < icap:
             print(f"Start no. {i}")
             if content_df.iloc[i]["Auto Imported"] == "no":
                 j = i+1
