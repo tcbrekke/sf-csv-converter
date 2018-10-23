@@ -94,9 +94,7 @@ def upload_route_summary():
                 times.append(pub_time)
                 labels.append(primary_label)
                 channels.append(post_channels)
-                
-                else:
-                    continue
+
             else:
                 i += 1
 
