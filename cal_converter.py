@@ -86,7 +86,8 @@ def upload_route_summary():
                                 i += 3
                             else:
                                 i += 2
-                        else: i += 2
+                        else: 
+                            i += 2
                     else:
                         i += 1
 
