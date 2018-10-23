@@ -74,10 +74,10 @@ def upload_route_summary():
                     print("made it past j if")
                     try:
                         if content_df.iloc[j]["Title"] == title:
-                        new_channels = content_df.iloc[j]["Accounts"]
-                        print(f"Check out these new channels: {new_channels}")
-                        post_channels = f"{post_channels}, {new_channels}"
-                        i += 1
+                            new_channels = content_df.iloc[j]["Accounts"]
+                            print(f"Check out these new channels: {new_channels}")
+                            post_channels = f"{post_channels}, {new_channels}"
+                            i += 1
                     except IndexError:
                         pass
                 else:
@@ -87,10 +87,10 @@ def upload_route_summary():
                     print("made it past k if")
                     try:
                         if content_df.iloc[k]["Title"] == title:
-                        print("but did you get here though")
-                        new_channels = content_df.iloc[k]["Accounts"]
-                        post_channels = f"{post_channels}, {new_channels}"
-                        i += 1
+                            print("but did you get here though")
+                            new_channels = content_df.iloc[k]["Accounts"]
+                            post_channels = f"{post_channels}, {new_channels}"
+                            i += 1
                     except IndexError:
                         pass
                 else:
