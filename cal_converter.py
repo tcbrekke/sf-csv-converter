@@ -48,7 +48,7 @@ def upload_route_summary():
         labels = []
         channels = []
 
-        i = 0
+        i = 1
         print("first check")
 
         while i < icap:
@@ -89,6 +89,7 @@ def upload_route_summary():
                             else:
                                 i += 2
                         else: 
+                            print("bailed out - k not met")
                             i += 2
                     else:
                         i += 1
