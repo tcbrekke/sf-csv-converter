@@ -38,7 +38,7 @@ def upload_route_summary():
         csv_to_convert = request.files['csvupload'] 
 
         content_df = pd.read_csv(csv_to_convert).reset_index()
-        icap = len(content_df)
+        icap = len(content_df)-1
         print(icap)
 
         titles = []
@@ -83,8 +83,8 @@ def upload_route_summary():
                                 new_channels = content_df.iloc[k]["Accounts"]
                                 post_channels = f"{post_channels}, {new_channels}"
                                 i += 3
-                        else:
-                            i += 2
+                            else:
+                                i += 2
                     else:
                         i += 1
 
