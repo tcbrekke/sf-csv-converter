@@ -70,13 +70,13 @@ def upload_route_summary():
 		        post_channels = content_df.iloc[i]["Accounts"]
 		        print("got here")
 
-		        if (len(content_df)) >= (j):
+		        if icap >= j:
 		            if content_df.iloc[j]["Title"] == title:
 		                new_channels = content_df.iloc[j]["Accounts"]
 		                print(f"Check out these new channels: {new_channels}")
 		                post_channels = f"{post_channels},{new_channels}"
 		#                 See if next cell exists, then if it is also a duplicate
-		                if (len(content_df)) >= k:
+		                if icap >= k:
 		                    if content_df.iloc[k]["Title"] == title:
 		                        new_channels = content_df.iloc[k]["Accounts"]
 		                        post_channels = f"{post_channels},{new_channels}"
