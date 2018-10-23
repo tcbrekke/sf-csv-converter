@@ -73,7 +73,7 @@ def upload_route_summary():
                 if icap >= j:
                     print("made it past j if")
                     try:
-                        content_df.iloc[j]["Title"] == title
+                        if content_df.iloc[j]["Title"] == title:
                         new_channels = content_df.iloc[j]["Accounts"]
                         print(f"Check out these new channels: {new_channels}")
                         post_channels = f"{post_channels}, {new_channels}"
@@ -86,7 +86,7 @@ def upload_route_summary():
                 if icap >= k:
                     print("made it past k if")
                     try:
-                        content_df.iloc[k]["Title"] == title:
+                        if content_df.iloc[k]["Title"] == title:
                         print("but did you get here though")
                         new_channels = content_df.iloc[k]["Accounts"]
                         post_channels = f"{post_channels}, {new_channels}"
